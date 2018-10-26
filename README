@@ -1,0 +1,11 @@
+Real quick:
+
+1. Install OpenBSD
+2. Run rrdtool installer chroot_rrdtool.sh
+3. Run perl installer chroot_perl.sh
+4. Run fping installer chroot_fping.sh
+5. Run smokeping installer chroot_smokeping.sh
+
+Last status:
+
+Works ok, except fping doesn't seem to want to run in the chroot environment.
